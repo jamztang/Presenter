@@ -1,0 +1,3 @@
+target "Presenter-Demo" do
+  pod "Presenter", :path => "../../"
+end
